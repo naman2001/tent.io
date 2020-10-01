@@ -11,3 +11,5 @@ Compile:
 Preview:
 
     bundle exec middleman server
+
+Thank you for reading this Readme file. Welcome!
